@@ -9,11 +9,11 @@ npm install drag2upload
 ```
 2.用html語法引入
 ```html
-<script src="burendo-validator/drag2upload.jquery.js"></script>
+<script src="drag2upload/drag2upload.jquery.js"></script>
 ```
 #### Vue
 ```javascript
-require('burendo-validator/drag2upload.jquery.js');
+require('drag2upload/drag2upload.jquery.js');
 ```
 ## 使用方法
 #### 基本用法
